@@ -20,4 +20,5 @@ I'm a **Computer Engineering** student at **Universidade Portucalense (UPT)** fo
 - **[eduscrum-awards](https://github.com/acs71agoe01/eduscrum-awards):** A gamification platform for Scrum project evaluation at UPT.
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-sa)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagoacs)
+
