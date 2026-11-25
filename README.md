@@ -9,10 +9,11 @@ I'm a **Computer Engineering** student at **Universidade Portucalense (UPT)** fo
 - 🤝 Big believer in community building and continuous learning.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Java, SQL, JavaScript, C, C#, PHP
+- **Languages:** Python, Java, TypeScript, JavaScript, SQL, Bash, PowerShell, C, C#, PHP
+- **Backend & Web:** FastAPI, Spring Boot (JWT), React, Vite, Tailwind CSS, MySQL / MariaDB
 - **Infrastructure & DevOps:** Linux (Ubuntu Server), Docker, Docker Compose, Portainer, systemd, Samba
-- **Networking & Security:** Tailscale (WireGuard), Nebula Mesh, AdGuard Home (DoH), UFW, SSH Hardening, Restic + Rclone (AES-256 Backups)
-- **AI & Tools:** Ollama, Open WebUI, Git, GitHub, Scrum/Agile
+- **Networking & Security:** Tailscale (WireGuard), Nebula Mesh, AdGuard Home (DoH), UFW, SSH Hardening, Restic + Rclone
+- **AI & Tools:** Ollama, Open WebUI, ChromaDB (RAG), Git, GitHub, pytest, Scrum/Agile
 
 ### 📂 Featured Projects
 - **[homelab](https://github.com/acs71agoe01/homelab):** Self-hosted 24/7 Ubuntu homelab featuring network-wide AdGuard DNS, Tailscale Subnet Routing, encrypted 3-2-1 Restic backups, and a custom Python Wake-on-LAN proxy for on-demand RTX 3080 LLM offloading.
